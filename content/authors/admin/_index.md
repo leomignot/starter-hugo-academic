@@ -1,28 +1,25 @@
 ---
-role: Professor of Artificial Intelligence
+role: Chercheur postdoctoral
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Sociologie des sciences et de la santé
-  - intelligence artificielle
-  - médecine
-  - radiologie
+  - Intelligence artificielle
+  - Médecine
+  - Radiologie
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/L_Mignot
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=XLgrlvUAAAAJ&hl=fr&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/leomignot
 organizations:
   - name: Université de Bordeaux
     url: https://www.u-bordeaux.fr/
