@@ -31,10 +31,10 @@ education:
       year: 2017
     - course: Master études et diagnostics sociologiques
       institution: Université de Bordeaux
-      year: 2012
+      year: ""
     - course: Master recherche sociologie
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: Université de Bordeaux
+      year: ""
 superuser: true
 highlight_name: true
 title: Nelson Bighetti
