@@ -2,14 +2,14 @@
 role: Chercheur postdoctoral
 bio: ""
 interests:
-  - Sociologie des sciences et de la santé
+  - Sociologie des sciences
+  - Sociologie de la santé
   - Intelligence artificielle
-  - Médecine
-  - Radiologie
+  - Médecine & radiologie
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: leo.mignot@u-bordeaux.fr
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/L_Mignot
@@ -37,9 +37,9 @@ education:
       year: ""
 superuser: true
 highlight_name: true
-title: Nelson Bighetti
+title: Léo Mignot
 email: ""
 ---
-Sociologue des sciences et de la santé, mes travaux portent sur la dynamique d'innovation médicale et notamment sur les applications de l'intelligence artificielle en santé.
+Sociologue des sciences et de la santé, mes travaux portent sur l'innovation médicale et notamment sur les applications de l'intelligence artificielle en santé.
 
 Je participe actuellement au projet [Artificial Intelligence in Biomedicine](https://durkheim.u-bordeaux.fr/Organisation-de-la-recherche/Sciences-ENvironnement-Sante-SENS/Projets-finances/The-Rise-of-Artificial-Intelligence-in-Biomedicine) financé par l'Institut national du cancer (INCa_15144).
