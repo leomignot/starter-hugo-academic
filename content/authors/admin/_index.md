@@ -1,7 +1,6 @@
 ---
 role: Chercheur postdoctoral
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Sociologie des sciences et de la santé
   - Intelligence artificielle
@@ -41,9 +40,6 @@ highlight_name: true
 title: Nelson Bighetti
 email: ""
 ---
+Sociologue des sciences et de la santé, mes travaux portent sur la dynamique d'innovation médicale et notamment sur les applications de l'intelligence artificielle en santé.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Je participe actuellement au projet [Artificial Intelligence in Biomedicine](https://durkheim.u-bordeaux.fr/Organisation-de-la-recherche/Sciences-ENvironnement-Sante-SENS/Projets-finances/The-Rise-of-Artificial-Intelligence-in-Biomedicine) financé par l'Institut national du cancer (INCa_15144).
