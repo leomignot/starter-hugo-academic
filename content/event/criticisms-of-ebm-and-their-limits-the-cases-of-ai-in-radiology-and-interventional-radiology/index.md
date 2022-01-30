@@ -17,9 +17,10 @@ publishDate: 2022-01-30T10:06:37.168Z
 draft: false
 featured: false
 projects:
-  - example
+  - the-rise-of-artificial-intelligence-in-biomedicine
 image:
   filename: 4s.jpg
   focal_point: Smart
   preview_only: false
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
 ---
