@@ -3,6 +3,11 @@ title: The Rise of Artificial Intelligence in Biomedicine
 date: 2022-01-30T09:52:06.143Z
 draft: false
 featured: false
+links:
+  - name: Follow
+    icon_pack: fab
+    icon: twitter
+    url: https://twitter.com/L_Mignot
 image:
   filename: featured
   focal_point: Smart
