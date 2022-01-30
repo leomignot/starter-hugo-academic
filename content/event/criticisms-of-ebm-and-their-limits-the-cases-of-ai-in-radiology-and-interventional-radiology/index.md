@@ -16,6 +16,8 @@ event_url: " https://www.4sonline.org/meeting/past-meetings/4s-2021-toronto/ "
 publishDate: 2022-01-30T10:06:37.168Z
 draft: false
 featured: false
+projects:
+  - example
 image:
   filename: 4s.jpg
   focal_point: Smart
