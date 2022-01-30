@@ -16,7 +16,7 @@ publishDate: 2022-01-30T09:57:14.066Z
 draft: false
 featured: false
 projects:
-  - The Rise of Artificial Intelligence in Biomedicine
+  - the-rise-of-artificial-intelligence-in-biomedicine
 image:
   filename: 4s.jpg
   focal_point: Smart
