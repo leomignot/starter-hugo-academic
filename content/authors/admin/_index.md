@@ -1,5 +1,6 @@
 ---
 role: Chercheur postdoctoral
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Sociologie des sciences
