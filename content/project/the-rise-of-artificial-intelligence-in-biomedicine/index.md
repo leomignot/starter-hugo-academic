@@ -3,6 +3,8 @@ title: The Rise of Artificial Intelligence in Biomedicine
 date: 2022-01-30T09:52:06.143Z
 draft: false
 featured: false
+tags:
+  - Artificial Intelligence
 links:
   - name: Follow
     icon_pack: fab
