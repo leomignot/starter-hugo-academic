@@ -18,7 +18,7 @@ featured: false
 projects:
   - The Rise of Artificial Intelligence in Biomedicine
 image:
-  filename: featured
+  filename: 4s.jpg
   focal_point: Smart
   preview_only: false
 ---
