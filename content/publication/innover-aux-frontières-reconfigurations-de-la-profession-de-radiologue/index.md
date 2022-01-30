@@ -10,12 +10,12 @@ author_notes:
   - Equal contribution
   - Equal contribution
   - Equal contribution
-doi: "EAN : 9782753566330 "
+doi: ""
 publication: "In Haxaire C., Moutaud B., Farnarier C., *L’innovation en santé.
   Technologies, organisations, changements*, Presses Universitaires de Rennes,
   2018 "
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
