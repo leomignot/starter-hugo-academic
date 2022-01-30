@@ -42,4 +42,4 @@ email: ""
 ---
 Sociologue des sciences et de la santé, mes travaux portent sur l'innovation médicale et notamment sur les applications de l'intelligence artificielle en santé.
 
-Je participe actuellement au projet [Artificial Intelligence in Biomedicine](https://durkheim.u-bordeaux.fr/Organisation-de-la-recherche/Sciences-ENvironnement-Sante-SENS/Projets-finances/The-Rise-of-Artificial-Intelligence-in-Biomedicine) financé par l'Institut national du cancer (INCa_15144).
+Je suis actuellement postdoctorant au Centre Émile Durkheim (UMR5116) ou je participe au projet [Artificial Intelligence in Biomedicine](https://durkheim.u-bordeaux.fr/Organisation-de-la-recherche/Sciences-ENvironnement-Sante-SENS/Projets-finances/The-Rise-of-Artificial-Intelligence-in-Biomedicine) (financement INCa_15144).
