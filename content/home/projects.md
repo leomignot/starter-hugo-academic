@@ -27,8 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: Artificial Intelligence
+    tag: Artificial Intelligence
   - name: Other
     tag: Demo
 
