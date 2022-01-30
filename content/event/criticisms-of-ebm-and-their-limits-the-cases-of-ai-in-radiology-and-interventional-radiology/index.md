@@ -19,8 +19,8 @@ featured: false
 projects:
   - the-rise-of-artificial-intelligence-in-biomedicine
 image:
-  filename: 4s.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
+  caption: ""
 ---
